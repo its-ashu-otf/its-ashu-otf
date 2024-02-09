@@ -14,7 +14,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-[![python](https://img.shields.io/badge/Python-3.12-3776AB.svg?style=flat&logo=C%2B%2B&logoColor=00599C)](https://www.python.org)
+![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=csharp&logoColor=512BD4)&nbsp;
+![Python](https://img.shields.io/badge/python-05122A?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-192133?style=flat-square&logo=AndroidStudio)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;

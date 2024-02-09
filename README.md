@@ -33,7 +33,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux)&nbsp;
 ![Kali](https://img.shields.io/badge/Kali-05122A?style=flat?&logo=kalilinux&logoColor=557C94)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-192133?style=flat-square&logo=Windows)&nbsp;
-![macOS](https://img.shields.io/badge/mac%20os-192133?05122A?style=flat&logo=macos&logoColor=F0F0F0)&nbsp;
+![macOS](https://img.shields.io/badge/Mac%20OS-192133?05122A?style=flat&logo=macos&logoColor=F0F0F0)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![OpenAI](https://img.shields.io/badge/-OpenAI-192133?style=flat-square&logo=OpenAI)&nbsp;
 ![Google](https://img.shields.io/badge/-Google-192133?style=flat-square&logo=Google)&nbsp;

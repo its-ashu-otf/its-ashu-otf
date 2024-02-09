@@ -4,7 +4,7 @@
 👀 &nbsp;I’m interested in Cyber Security.\
 🧠 &nbsp;I’m currently learning Python, BASH and Batch Scipting and Securing Linux and Windows Systems.\
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:its_ashu_xo) (https://twitter.com/its_ashu_xo)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:its_ashu_xo)
 
 
 
@@ -14,7 +14,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-[![python](https://img.shields.io/badge/Python-3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![python](https://img.shields.io/badge/Python-3.12-3776AB.svg?style=flat&logo=python&logoColor=00599C)](https://www.python.org)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-192133?style=flat-square&logo=AndroidStudio)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;

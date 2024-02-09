@@ -32,7 +32,7 @@
 ![Android](https://img.shields.io/badge/-Android-192133?style=flat-square&logo=Android)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux)&nbsp;
 ![Kali](https://img.shields.io/badge/Kali-05122A?style=flat?&logo=kalilinux&logoColor=557C94)&nbsp;
-![Chrome OS](https://img.shields.io/badge/chrome%20os-05122A?style=flat&logo=google%20chrome&logoColor=4285F4)
+![Chrome OS](https://img.shields.io/badge/Chrome%20OS-05122A?style=flat&logo=google%20chrome&logoColor=4285F4)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420)
 ![Windows](https://img.shields.io/badge/-Windows-192133?style=flat-square&logo=Windows)&nbsp;
 ![macOS](https://img.shields.io/badge/mac%20OS-192133?05122A?style=flat&logo=macos&logoColor=F0F0F0)&nbsp;

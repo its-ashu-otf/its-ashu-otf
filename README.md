@@ -2,8 +2,9 @@
 
 👋 &nbsp;Hi, I’m @Its-Ashu.\
 👀 &nbsp;I’m interested in Cyber Security.\
-🌱 &nbsp;I’m currently learning Python, BASH and Batch Scipting .\
+🧠 &nbsp;I’m currently learning Python, BASH and Batch Scipting and Securing Linux and Windows Systems.\
 
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:its_ashu_xo))
 
 
 ### 🛠 &nbsp;Tech Stack

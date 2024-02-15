@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-👋 &nbsp;Hi, I’m @Its-Ashu.\
+👋 &nbsp;Hi, I’m Ashutosh.\
 👀 &nbsp;I’m interested in Cyber Security.\
 🧠 &nbsp;I’m currently learning Python, Scipting, Securing Linux and Windows Systems.
 

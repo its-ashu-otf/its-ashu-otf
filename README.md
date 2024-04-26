@@ -4,8 +4,7 @@
 👀 &nbsp;I’m interested in Cyber Security.\
 🧠 &nbsp;I’m currently learning Python, Scipting, Securing Linux and Windows Systems.
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:its_ashu_xo)
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://its-ashu-otf.github.io/about_me/)
 
 
 

@@ -51,3 +51,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=its-ashu-otf&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=its-ashu-otf&style=for-the-badge&color=blue" alt=""/>
+</div>

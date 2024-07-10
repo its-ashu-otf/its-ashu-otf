@@ -37,6 +37,7 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_traffic: yes
+          filename: metrics.plugin.contributors.categories.svg
           plugin_contributors: yes
           plugin_contributors_sections: categories
           plugin_contributors_categories: |
@@ -45,9 +46,3 @@ jobs:
               "📚 Documentation":["README.md", "**/README.md", "**/metadata.yml"],
               "💻 Code (other)":["source/**", "Dockerfile"]
             }
-          filename: metrics.plugin.starlists.languages.svg
-          plugin_starlists: yes
-          plugin_starlists_languages: yes
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 0
-          plugin_starlists_only: Awesome

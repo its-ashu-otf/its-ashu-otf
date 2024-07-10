@@ -8,12 +8,11 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+   runs-on: ubuntu-latest
+    environment:
+      name: production
     permissions:
       contents: write
-    concurrency:
-      group: metrics-update
-      cancel-in-progress: true
     steps:
       - name: Cache dependencies
         uses: actions/cache@v2

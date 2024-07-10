@@ -22,7 +22,7 @@ jobs:
           key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GH_PAT }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: its-ashu-otf

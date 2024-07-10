@@ -1,8 +1,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-👋 &nbsp;Hi, I’m Ashutosh.\
+👋 &nbsp;Hi, I’m Ashutosh Gupta.\
 👀 &nbsp;I’m Studying Cyber Security.\
-🧠 &nbsp;I’m currently learning Python, Scipting, Securing Linux and Windows Systems.
+🧠 &nbsp;I’m Currently Learning Python, Scripting, Securing Linux and Windows Systems.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://its-ashu-otf.github.io/about_me/)
 

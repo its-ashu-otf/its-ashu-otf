@@ -23,7 +23,7 @@ jobs:
           user: its-ashu-otf
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: India/Mumbai
+          config_timezone: India/Kolkata
           plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -43,11 +43,7 @@ jobs:
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-          plugin_contributors: yes
-          plugin_contributors_sections: categories
-          plugin_contributors_categories: |
-            {
-              "🧩 Plugins / 🖼️ templates":["source/plugins/**", "source/templates/**"],
-              "📚 Documentation":["README.md", "**/README.md", "**/metadata.yml"],
-              "💻 Code (other)":["source/**", "Dockerfile"]
-            }
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create

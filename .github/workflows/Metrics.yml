@@ -37,4 +37,10 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_traffic: yes
-         
+          plugin_contributors: yes
+          plugin_contributors_categories: |
+            {
+              "📚 Documentation": ["README.md", "docs/**"],
+              "💻 Code": ["source/**", "src/**"],
+              "#️⃣ Others": ["*"]
+            }

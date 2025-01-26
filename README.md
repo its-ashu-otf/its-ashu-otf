@@ -1,14 +1,13 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-👋 &nbsp;Hi, I’m Ashutosh Gupta.\
-👀 &nbsp;I’m Studying Cyber Security.\
-🧠 &nbsp;I’m Currently Learning Python, Scripting, Securing Linux and Windows Systems.
+👋 &nbsp;Hi, I’m Ashutosh Gupta.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://its-ashu-otf.github.io/about_me/)
-
-
-
-
+#### Cybersecurity Enthusiast | CTF Player | Pentester
+- 🔒 Passionate about ethical hacking and exploring the depths of cybersecurity.
+- 🏆 Active CTF player, sharpening skills in web application pentesting.
+- ⚙️ Enthusiast in system administration, with hands-on experience in managing and securing Linux/Windows systems.
+- 📚 Constant learner, diving into CEH v13 and offensive/defensive security techniques.
+- 💻 Striving to bridge the gap between red and blue teams with a curious, problem-solving mindset.
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=A8B9CC)&nbsp;

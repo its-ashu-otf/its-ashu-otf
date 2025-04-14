@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: plugin_achievements
+          user: its-ashu-otf
           template: classic
           base: activity, community, repositories, metadata
           config_octicon: yes
